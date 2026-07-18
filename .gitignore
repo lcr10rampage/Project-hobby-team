@@ -1,0 +1,6 @@
+# OS / editor
+.DS_Store
+*.swp
+
+# Local workspaces created by the team (user project data stays local)
+projects/
