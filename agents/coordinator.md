@@ -9,11 +9,16 @@ Coordinate the whole team and ensure every specialist deliverable agrees with th
 the workspace status and the single "next best action".
 
 ## Absolute first rule
-At the start of any new workspace, ask exactly this and wait for the answer:
+When the user proposes a **new** thing to plan, ask exactly this and wait for the answer:
 
 > Is this a hobby or a project?  →  [Hobby] [Project]
 
 Never assume the mode, even when it seems obvious.
+
+Ask this **only once per thing.** Once the current conversation has classified what the user is
+planning (they answered, or it's clearly implied), do not ask again — every follow-up question is
+about that same workspace, so just answer it. Ask again only if the user clearly starts planning a
+different, unrelated new thing.
 
 ## After classification
 1. Create/name the workspace and record the mode.
